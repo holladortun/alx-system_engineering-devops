@@ -1,0 +1,16 @@
+total 56
+drwxr-xr-x 2 hollabuntu hollabuntu 4096 Mar  8 02:52 .
+drwxr-xr-x 6 hollabuntu hollabuntu 4096 Mar  8 00:21 ..
+-rwxr-xr-x 1 hollabuntu hollabuntu   32 Mar  8 00:29 0-hello_world
+-rwxr-xr-x 1 hollabuntu hollabuntu   28 Mar  8 01:09 1-confused_smiley
+-rwxr-xr-x 1 hollabuntu hollabuntu   28 Mar  8 01:11 2-hellofile
+-rwxr-xr-x 1 hollabuntu hollabuntu   39 Mar  8 01:14 3-twofiles
+-rwxr-xr-x 1 hollabuntu hollabuntu   29 Mar  8 01:39 4-lastlines
+-rwxr-xr-x 1 hollabuntu hollabuntu   29 Mar  8 01:41 5-firstlines
+-rwxr-xr-x 1 hollabuntu hollabuntu   40 Mar  8 02:22 6-third_line
+-rwxr-xr-x 1 hollabuntu hollabuntu   78 Mar  8 02:42 7-file
+-rwxr-xr-x 1 hollabuntu hollabuntu   36 Mar  8 02:51 8-cwd_state
+-rw-r--r-- 1 hollabuntu hollabuntu 2534 Mar  8 00:50 README.md
+-rw-r--r-- 1 hollabuntu hollabuntu   38 Mar  8 02:35 \*\'Best
+-rw-r--r-- 1 hollabuntu hollabuntu  117 Mar  8 01:51 iacta
+-rw-r--r-- 1 hollabuntu hollabuntu    0 Mar  8 02:52 ls_cwd_content
